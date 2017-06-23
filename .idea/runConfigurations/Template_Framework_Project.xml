@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Template Framework Project" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Template Framework Project" TARGET_NAME="Template Framework Project" CONFIG_NAME="Debug" SCHEME_NAME="Template Framework Project" RUN_TARGET_PROJECT_NAME="Template Framework Project" RUN_TARGET_NAME="Template Framework Project" MAKE_ACTIVE="TRUE">
+    <envs />
+    <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+      <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+    </EXTENSION>
+    <method />
+  </configuration>
+</component>
